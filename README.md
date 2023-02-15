@@ -4,7 +4,7 @@ This project performs sentiment analysis on Twitter data using Google Colab. It 
 
 ## Usage
 1. Open the twitter_sentiment_analysis.ipynb file in Google Colab.
-2. Follow the instructions in the notebook to authenticate your Twitter account and set your search parameters.
+2. Set the search parameters: Follow the instructions in the notebook to set the search parameters for the tweets you want to analyze. You can specify the search query, dates, language, and other parameters to customize your search. 
 3. Run the cells to perform the sentiment analysis and generate visualizations.
 
 ## Visualizations
